@@ -1,3 +1,4 @@
+{
         {
           id: 5928101,
           category: 'animal welfare',
@@ -31,3 +32,4 @@
           petsAllowed: false,
           organizer: 'Carey Wales'
         }
+}
